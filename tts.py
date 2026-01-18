@@ -5,3 +5,5 @@ from playsound import playsound
 
 
 
+def speak_text():
+  
